@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.14">
+  <diagram name="Page-1" id="EBgY2XIy4IT2Nju40IQI">
+    <mxGraphModel dx="2633" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-1" target="ttSGvFutvm-74A6iLGZ0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Start&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="-277" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-2" target="ttSGvFutvm-74A6iLGZ0-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-2" target="ttSGvFutvm-74A6iLGZ0-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-2" target="ttSGvFutvm-74A6iLGZ0-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Calculate Monthly and Yearly Average of Wardwise Groundwater Level&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-274" y="-179" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Calculate Max Level, Min Level and Change from 2021 to 2024&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="50" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-8" target="ttSGvFutvm-74A6iLGZ0-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-8" target="ttSGvFutvm-74A6iLGZ0-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-835" y="-154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-8" target="ttSGvFutvm-74A6iLGZ0-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Identify Ward Based on Yearly Average Water Level&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-436" y="-208" width="107" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-10" target="ttSGvFutvm-74A6iLGZ0-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Identify Wards with Significant Post Monsoon Rise&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-29.5" y="-303" width="131" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Wards with Stable/Rising&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Trend&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-723" y="63" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Declining&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-878" y="-32" width="103" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Wards with Declining Trend&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-891" y="59" width="116" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Calculation of Std Deviation&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-556" y="63" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-21" target="ttSGvFutvm-74A6iLGZ0-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Compute Mean Post Monsoon Rise&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-16.5" y="-91" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-23" target="ttSGvFutvm-74A6iLGZ0-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Flag wards with Signigficant Rise&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-19.5" y="85" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-25" target="ttSGvFutvm-74A6iLGZ0-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Computer Overall Recharge Potential Score&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="152.75" y="85" width="112.5" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-27" target="ttSGvFutvm-74A6iLGZ0-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Rank Locations by Recharge Potential&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="157" y="-54" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ttSGvFutvm-74A6iLGZ0-29" target="ttSGvFutvm-74A6iLGZ0-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Get Top 5 Wards per Area in Chennai&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="159" y="-191" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Stop&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="179" y="-282" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Stable/Rising&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="-32" width="122" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ttSGvFutvm-74A6iLGZ0-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Variability&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-544" y="-30" width="96" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
