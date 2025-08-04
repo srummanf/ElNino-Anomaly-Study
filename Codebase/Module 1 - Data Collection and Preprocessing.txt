@@ -1,0 +1,11 @@
+Objective:
+Collect and preprocess the climate, groundwater, and satellite data for further analysis.
+
+Steps:
+Groundwater Data: Historical groundwater levels across different wards.
+Satellite Data: Google Earth Engine, Copernicus Browser
+
+Preprocessing Techniques:
+Normalization of the data for uniform scale.
+Data cleaning (handling missing values, removing outliers).
+Feature selection to focus on key influencing factors.
